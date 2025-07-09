@@ -494,6 +494,10 @@ input[type=number] {
 		font-size: 60px;
 	}
 
+	.post-body {
+		padding: 5px 15px;
+	}
+
 }
 
 
