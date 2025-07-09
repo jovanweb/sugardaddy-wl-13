@@ -498,6 +498,10 @@ input[type=number] {
 		padding: 5px 15px;
 	}
 
+	article {
+		margin: 0 auto 50px;
+	}
+
 }
 
 
